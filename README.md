@@ -17,7 +17,7 @@ Why a blog? Well, a blog allows you to build a lot of features that are basicall
 - A machine with PHP 7.x and Composer on it
 - A database of pretty much any kind (Currently using MySQL)
 
-An easy way to get started with this is to use [Vagrant](www.vagrantup.com) and the prebuilt PHP development VM [Homestead](https://github.com/laravel/homestead).
+An easy way to get started with this is to use [Vagrant](https://www.vagrantup.com) and the prebuilt PHP development VM [Homestead](https://github.com/laravel/homestead).
 It comes with pretty much everything you'll need, including webservers, mailservers and multiple database management systems (using MySQL by default).
 
 ### Schema
